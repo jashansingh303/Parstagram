@@ -3,14 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidApps/Parstagram/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.1" />
+        <entry key="..\:/AndroidApps/Parstagram/app/src/main/res/drawable/ic_baseline_favorite_border_24.xml" value="0.253" />
         <entry key="..\:/AndroidApps/Parstagram/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.25555555555555554" />
+        <entry key="..\:/AndroidApps/Parstagram/app/src/main/res/drawable/toggle_selector.xml" value="0.253" />
         <entry key="..\:/AndroidApps/Parstagram/app/src/main/res/layout/activity_login.xml" value="0.22" />
         <entry key="..\:/AndroidApps/Parstagram/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/AndroidApps/Parstagram/app/src/main/res/layout/fragment_compose.xml" value="0.22" />
         <entry key="..\:/AndroidApps/Parstagram/app/src/main/res/layout/fragment_feed.xml" value="0.25" />
         <entry key="..\:/AndroidApps/Parstagram/app/src/main/res/layout/fragment_profile.xml" value="0.14628623188405798" />
-        <entry key="..\:/AndroidApps/Parstagram/app/src/main/res/layout/item_post.xml" value="0.25" />
+        <entry key="..\:/AndroidApps/Parstagram/app/src/main/res/layout/item_post.xml" value="0.33" />
         <entry key="..\:/AndroidApps/Parstagram/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.25" />
+        <entry key="..\:/AndroidApps/Parstagram/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.253" />
         <entry key="..\:/AndroidApps/Parstagram/app/src/main/res/xml/fileprovider.xml" value="0.11980749746707194" />
       </map>
     </option>

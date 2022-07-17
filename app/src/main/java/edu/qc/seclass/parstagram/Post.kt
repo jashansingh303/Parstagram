@@ -31,9 +31,18 @@ class Post : ParseObject() {
         put(KEY_USER, user)
     }
 
+    fun getLike(): Number? {
+        return getNumber(KEY_LIKE)
+    }
+
+    fun setLike(like: Number){
+        put(KEY_LIKE, like)
+    }
+
     companion object{
         const val KEY_DESCRIPTION = "description"
         const val KEY_IMAGE = "image"
         const val KEY_USER = "user"
+        const val KEY_LIKE = "like"
     }
 }
