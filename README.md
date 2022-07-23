@@ -15,7 +15,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='walkthrough2' width='250px'/>
+<img src='walkthrough2.gif' width='250px'/>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Open-source libraries used
